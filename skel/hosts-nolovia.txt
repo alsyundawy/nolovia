@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-02-22 00:00:10
+# Generated at 2026-04-17 10:24:46
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2491,6 +2491,7 @@ branchborder.com
 brand-display.com
 brandmetrics.com
 brandsfive.com
+brandsmat.com
 brandybison.com
 brashbead.com
 brassrule.com
@@ -14289,6 +14290,7 @@ wishjus.com
 wispycity.com
 wistfulflight.com
 wistfulwaste.com
+withpersona.com
 wittypopcorn.com
 wittyshack.com
 wivo2gaza.com
