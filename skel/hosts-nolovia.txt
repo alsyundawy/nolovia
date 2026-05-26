@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-04-17 10:24:46
+# Generated at 2026-05-26 15:51:26
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2488,7 +2488,10 @@ brainybasin.com
 brainynut.com
 bralntree.com
 branchborder.com
+brand-careers.com
 brand-display.com
+brand-jobs.com
+brand-talenthub.com
 brandmetrics.com
 brandsfive.com
 brandsmat.com
@@ -2913,6 +2916,7 @@ chase-logbank5.xyz
 chase-unlockid.com
 chatbeacon.io
 chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev
+chatbot.aisera.cloud
 chatbot.rc3.qa.ring.com
 chatbot.rc3.ring.com
 chatbotize.com
@@ -4571,6 +4575,7 @@ ed9wkbpy.com
 edanking-servlces.com
 edanklng-servlces.com
 edge-mcdn-beacon.secure.yahoo.com
+edge-prebid-pbd.g03.yahoodns.net
 edge.quantserve.com
 edge.wholesalerandy.com
 edgetag.io
@@ -6158,6 +6163,7 @@ hp7cjr78.com
 hpljupfyb.com
 hppcg.com
 hqzjz7fncd.com
+hr-brand.com
 hraparak.org
 hrj91nuwzu.com
 hrzn-nxt.com
@@ -7100,6 +7106,7 @@ klartext-news.de
 klca5rlwdr.com
 klclick1.com
 klclick3.com
+klevu.com
 klik.nrc.nl
 kloperd.com
 knewpenny.com
@@ -7133,6 +7140,7 @@ krs1v2sl.com
 krum.vsct.fr
 krux.com
 krxd.net
+ksearchnet.com
 ksyunv5.com
 kt5850pjz0.com
 ktag.kaxcdn.com
@@ -10656,6 +10664,7 @@ sajari.com
 saladfuel.com
 salaure.pro
 salemove.com
+salesdish.com
 salesforceliveagent.com
 salesiq.zohopublic.com
 salespop.com
@@ -13022,6 +13031,7 @@ tracker.affirm.com
 tracker.ai.xiaomi.com
 tracker.anandtech.com
 tracker.arc.io
+tracker.bespoketechnologies.net
 tracker.bt.uol.com.br
 tracker.calameo.com
 tracker.cartprotector.com
@@ -13842,6 +13852,7 @@ vhldwuv6om.com
 vhsrwd.aip24.pl
 vi.ai
 viadata.store
+vibing-api-ccegdhbrg2d6bsd7.b02.azurefd.net
 vibrantcelebration.com
 vibrantgale.com
 vibranthaven.com
